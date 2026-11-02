@@ -16,7 +16,7 @@ Analyse APAC e-commerce performance across revenue, operations, and channel metr
 
 | # | Question | Section |
 |---|---|---|
-| 1 | Which APAC markets drive the most revenue — and which have growth potential? | Revenue & Market Analysis |
+| 1 | Which APAC markets drive the most revenue - and which have growth potential? | Revenue & Market Analysis |
 | 2 | Which categories have high return rates eating into margin? | Category Performance |
 | 3 | Which markets are breaching fulfillment SLA targets? | Operational KPIs |
 | 4 | Is Social Commerce an emerging channel worth investing in? | Channel Analysis |
